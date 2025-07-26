@@ -1,16 +1,37 @@
-# animefy_me
+# Animefy Me
 
-A new Flutter project.
+**Animefy Me** adalah aplikasi Flutter sederhana yang dapat mengubah gambar menjadi gaya anime (simulasi).  
+Aplikasi ini dibuat untuk belajar animasi, routing, dan UI Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur
+- Upload gambar dari galeri
+- Simulasi konversi ke gaya anime
+- Tampilan UI clean dan responsif
+- Animasi loading & animasi transisi halaman
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Hasil Konversi (Simulasi)
+<img src="screenshots/hasil_anime.jpeg" width="300"/>
+
+---
+
+## 🚀 Instalasi & Build
+
+```bash
+# Clone project
+git clone https://github.com/skymochtar/animefy_me.git
+cd animefy_me
+
+# Install dependencies
+flutter pub get
+
+# Jalankan aplikasi
+flutter run
+
+# Atau build APK release
+flutter build apk --release
