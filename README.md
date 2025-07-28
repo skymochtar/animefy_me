@@ -20,6 +20,15 @@ Aplikasi ini dibuat untuk belajar animasi, routing, dan UI Flutter.
 
 ---
 
+## 🎬 Demo Video
+
+Lihat demo penggunaan aplikasi Animefy Me di:
+
+👉 [TikTok](https://www.tiktok.com/@skymochtar/video/7531804478249372934?is_from_webapp=1&sender_device=pc&web_id=7515279420954773012)  
+👉 [YouTube](https://youtube.com/shorts/Ce9aspggF_Q)
+
+---
+
 ## 🚀 Instalasi & Build
 
 ```bash
